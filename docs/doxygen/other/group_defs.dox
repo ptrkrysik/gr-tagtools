@@ -1,0 +1,7 @@
+/*!
+ * \defgroup block GNU Radio TAGTOOLS C++ Signal Processing Blocks
+ * \brief All C++ blocks that can be used from the TAGTOOLS GNU Radio
+ *        module are listed here or in the subcategories below.
+ *
+ */
+
